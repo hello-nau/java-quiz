@@ -1,4 +1,8 @@
+/*
+Quiz questions.
+First four questions are True/False, others are choose correct answer type.
 
+*/
 public class Quiz {
 
 public static void main(String[] args) {
